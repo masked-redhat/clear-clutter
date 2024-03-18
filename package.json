@@ -1,0 +1,12 @@
+{
+  "name": "clear_clutter",
+  "version": "1.0.0",
+  "description": "Clear the clutter by moving files to specific extension folders",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zed",
+  "license": "ISC"
+}
